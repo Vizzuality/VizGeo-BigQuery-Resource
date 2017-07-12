@@ -1,5 +1,5 @@
 # VizGeo-BigQuery-Resource
-Library to use geospatial functions in bigquery.
+Resources of the library to use geospatial functions in bigquery.
 
 ## Develop
 
